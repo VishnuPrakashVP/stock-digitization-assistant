@@ -105,8 +105,3 @@ The goal is to reduce manual effort and errors by automating the digitization of
 - Handwriting is reasonably legible
 - Users will verify and edit results as needed
 
----
-
-[Sprint Plan](https://www.notion.so/1fe245b76d1c80b7a22de39401d0a753?pvs=21)
-
----
